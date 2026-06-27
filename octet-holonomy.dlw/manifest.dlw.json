@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-OCTET_HOLONOMY",
+  "name": "THE OCTET HOLONOMY CALCULATOR",
+  "universe": "IDIOS",
+  "moniker": "⟦THE OCTET HOLONOMY CALCULATOR:octet-holonomy:9507fc⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "9507fc4ba29ab8b9d3e39e9e929cb2fd27b72f76a485e3602ef48cbd7a8c4acc",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
